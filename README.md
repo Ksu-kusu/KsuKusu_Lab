@@ -60,4 +60,4 @@
 ## ✅ Экзаменационные билет №3
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №3](https://github.com/stankin/inet-2022/wiki/exam3)
+[билет №3](https://github.com/stankin/inet-2022/wiki/exam03)
