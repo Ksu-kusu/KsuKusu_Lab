@@ -10,7 +10,7 @@
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение веб-страницы на хостинге.
 
-Веб-страница с описанием лабораторных работ доступна по ссылке: [Web-page](https://github.com/Ksu-kusu/KsuKusu_Lab)
+Веб-страница с описанием лабораторных работ доступна по ссылке: [Web-page]()
 
 ## ✅ Лабораторная работа № 2
 
@@ -57,7 +57,7 @@
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer. Настройка динамической маршрутизации по протоколу RIP.
 1. [Отчёт](https://github.com/Ksu-kusu/KsuKusu_Lab/blob/main/Cisco_Lab/Отчет_Пр_6.docx)
-2. [Сценарии Cisco Packet Tracer] (https://github.com/Ksu-kusu/KsuKusu_Lab/tree/main/Cisco_Lab)
+2. [Сценарии Cisco Packet Tracer](https://github.com/Ksu-kusu/KsuKusu_Lab/tree/main/Cisco_Lab)
 
 ## ✅ Экзаменационные билет №3
 
