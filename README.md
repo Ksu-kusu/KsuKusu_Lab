@@ -56,8 +56,8 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer. Настройка динамической маршрутизации по протоколу RIP.
-1. [Web-page]
-2. [Сценарии Cisco Packet Tracer]
+1. [Отчёт](https://github.com/Ksu-kusu/KsuKusu_Lab/blob/main/Отчет_Заложкина.docx)
+2. [Сценарии Cisco Packet Tracer] 
 
 ## ✅ Экзаменационные билет №3
 
